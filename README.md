@@ -1,7 +1,8 @@
 # STTS Utilities
 
 This repository contains STTS utilities primarily used for VRChat. By using the scripts available in this repository, you can use your own microphone to speak, but the output will be an AI-generated voice instead of your own voice.
-Prerequisites
+
+# Prerequisites
 
 Before using the STTS utilities, make sure you have the following prerequisites installed and set up:
 
