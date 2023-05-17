@@ -1,6 +1,6 @@
 # STTS Utilities
 
-This repository contains STTS utilities primarily used for VRChat. By using the scripts available in this repository, you can use your own microphone to speak, but the output will be an AI-generated voice instead of your own voice.
+This repository contains STTS utilities which I use primarily for VRChat. By using the scripts available in this repository, you can use your own microphone to speak, but the output will be an AI-generated voice instead of your own voice.
 
 # Prerequisites
 
@@ -33,4 +33,10 @@ Follow the steps below to use the STTS utilities:
 **Note**: In your game settings, make sure to set VB-Audio CABLE as your microphone so that others can hear you.
 License
 
+# License
+
 This repository is licensed under the MIT license.
+
+# Contributions
+
+Contributions are always welcome, if you got anything to improve, feel free to make a PR.
