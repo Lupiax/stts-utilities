@@ -24,7 +24,7 @@ Follow the steps below to use the STTS utilities:
 
 3. If you're using the Japanese voice, start the Voicevox engine by running `start.bat`. If you're not using it, you can skip this step.
 
-4. Configure your API keys and audio devices by modifying the `.env.sample` file. Save the changes and rename the file to `.env.`
+4. Configure your API keys and audio devices by modifying the `.env.sample` file. Save the changes and rename the file to `.env`.
 
 5. Start your preferred STTS script, either the English or Japanese version.
 
